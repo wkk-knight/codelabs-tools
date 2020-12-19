@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-12-19T11:49:23+08:00",
+  "id": "test_codelab",
+  "duration": 7,
+  "title": "第一个codelab",
+  "authors": "kk",
+  "summary": "测试，第一个codelab",
+  "source": "test_codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/wkk-knight/",
+  "url": "test_codelab"
+}
